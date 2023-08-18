@@ -34,8 +34,7 @@ Python, Data Analysis, Machine Learning, Problem Solving
 Latte artist-in-training ☕️
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AvinashShrivastav&show_icons=true&theme=radical)
 
 ## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&langs_count=10&hide=html&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AvinashShrivastav&layout=compact&theme=radical)
