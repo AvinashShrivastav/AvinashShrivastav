@@ -24,6 +24,9 @@ Dual-degree student passionate about coding, data science, and creative problem-
 ## Skills
 Python, Data Analysis, Machine Learning, Problem Solving
 
+## Badges
+<img width="548" alt="image" src="https://github.com/AvinashShrivastav/AvinashShrivastav/assets/110047194/c12a7aef-cfc6-41de-a98d-593c39cd9a40">
+
 
 ## Let's Connect
 [LinkedIn](https://linkedin.com/in/avinash--shrivastava)
