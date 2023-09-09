@@ -6,10 +6,6 @@ Dual-degree student passionate about coding, data science, and creative problem-
 - 🎓 Pursuing Computer Science at SSCBS
 - 🤖 Exploring Data Science at IIT Madras
 
-## Experience
-- Core Committee Member (Tech) at Kronos SSCBS
-- Organising Committee Member at Kronos SSCBS
-
 ## Education
 - BSc in Computer Science, SSCBS
 - BSc in Data Science, IIT Madras
