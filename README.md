@@ -1,28 +1,5 @@
 # Hi, I'm Avinash Shrivastava 👋
 
-## About Me
-Dual-degree student passionate about coding, data science, and creative problem-solving.
-
-- 🎓 Pursuing Computer Science at SSCBS
-- 🤖 Exploring Data Science at IIT Madras
-
-## Education
-- BSc in Computer Science, SSCBS
-- BSc in Data Science, IIT Madras
-
-## Certifications
-- Python for Data Science - IBM
-- Deep Learning using TensorFlow - IBM
-- Data Analysis Using Python - IBM
-- HackerRank Python (Basic)
-- Udemy: Optical Character Recognition, Figma Design Course
-
-## Skills
-Python, Data Analysis, Machine Learning, Problem Solving
-
-## Badges
-<img width="548" alt="image" src="https://github.com/AvinashShrivastav/AvinashShrivastav/assets/110047194/c12a7aef-cfc6-41de-a98d-593c39cd9a40">
-
 
 ## Let's Connect
 [LinkedIn](https://linkedin.com/in/avinash--shrivastava)
