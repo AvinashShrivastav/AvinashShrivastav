@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Avinash Shrivastava
 ===========================================================================================================================================
 
-👋 Hey there! I’m Avinash, a passionate developer on a mission to turn coffee into code ☕👩‍💻. My repositories are like a treasure chest—filled with projects, experiments, and a sprinkle of whimsy. Whether it’s Python scripts, web apps, or quirky side hustles, I love building things that make life a tad more interesting. 🌟 Connect with me, explore my code, and let’s create something awesome together!
+👋 Hey there! I’m Avinash, a passionate developer on a mission to turn coffee into code ☕👩‍💻. I love building things that make life a tad more interesting. 🌟 Connect with me, explore my code, and let’s create something awesome together!
 
 * 🌍  I'm based in New Delhi
 * ✉️  You can contact me at [avinash.22512@sscbs.du.ac.in](mailto:avinash.22512@sscbs.du.ac.in)
